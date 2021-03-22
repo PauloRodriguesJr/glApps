@@ -3,7 +3,7 @@
 Paulo Eduardo Rodrigues Jr. -  11201720794
 
 
-O projeto em desenvolvimento é um jogo derivado de Asteroids, chamado "Avoid the spikes" onde o objetivo do jogo é durar o máximo de tempo possível, desviando de esferas espinhosas que recocheteiam pelas paredes. 
+O projeto em desenvolvimento é um jogo derivado de [Asteroids](http://professor.ufabc.edu.br/~harlen.batagelo/cg/asteroids.html), chamado "Avoid the spikes" onde o objetivo do jogo é durar o máximo de tempo possível, desviando de esferas espinhosas que recocheteiam pelas paredes. 
 
 Link para a GitHub Page:
 https://paulorodriguesjr.github.io/glApps/
