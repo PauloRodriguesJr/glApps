@@ -2,11 +2,19 @@
 
 Paulo Eduardo Rodrigues Jr. -  11201720794
 
+###Avoid the spikes
 
 O projeto em desenvolvimento é um jogo derivado de [Asteroids](http://professor.ufabc.edu.br/~harlen.batagelo/cg/asteroids.html), chamado "Avoid the spikes" onde o objetivo do jogo é durar o máximo de tempo possível, desviando de esferas espinhosas que recocheteiam pelas paredes. 
 
-Link para a GitHub Page:
-https://paulorodriguesjr.github.io/glApps/
 
-Link para o projeto Avoid the Spikes:
+Link para o jogo Avoid the Spikes:
 https://paulorodriguesjr.github.io/glApps/avoidspikes/
+
+
+### Dark Maze 
+
+O projeto é um jogo 3D na qual o jogador está preso em um labirinto de pedra, porém algumas paredes são falsas. Até o momento o jogo não tem um objetivo claro
+
+
+Link para o jogo Dark Maze:  https://paulorodriguesjr.github.io/glApps/dark_maze/
+
