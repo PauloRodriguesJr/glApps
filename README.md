@@ -2,7 +2,9 @@
 
 Paulo Eduardo Rodrigues Jr. -  11201720794
 
-###Avoid the spikes
+Acesse pelo GitHub Pages :https://paulorodriguesjr.github.io/glApps/
+
+### Avoid the spikes
 
 O projeto em desenvolvimento é um jogo derivado de [Asteroids](http://professor.ufabc.edu.br/~harlen.batagelo/cg/asteroids.html), chamado "Avoid the spikes" onde o objetivo do jogo é durar o máximo de tempo possível, desviando de esferas espinhosas que recocheteiam pelas paredes. 
 
